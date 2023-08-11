@@ -124,25 +124,16 @@ const experiences = [
     ]
   },
   {
-    title: "Software Engineer 2",
+    title: "Frontend Developer",
     company_name: "TaxBit",
     icon: taxbit,
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - June 2023",
+    date: "Apr 2020 - June 2023",
     points: [
       "As the first front-end engineer at Taxbit, played a key role in shaping the company's technical direction and culture and participated in interviewing new hires.",
       "Developed a “resolution center” helping users backfill transactions from our vendors if there are failed price lookups, or bad asset data. This solution backfilled 70% of missing cost basis transactions without the intervention of a data engineer.",
       "Developed advanced dynamic forms using React Hook Forms and Zod for validation.",
-      "Participating in code reviews and providing constructive feedback to other developers."
-    ]
-  },
-  {
-    title: "Frontend Software Engineer",
-    company_name: "TaxBit",
-    icon: taxbit,
-    iconBg: "#E6DEDD",
-    date: "Apr 2020 - Jan 2021",
-    points: [
+      "Participating in code reviews and providing constructive feedback to other developers.",
       "Increased our QA test coverage from 30% to 90% by configuring Webpack to execute linters, magnifiers, pre/post-processors, tests, transpires, etc.",
       "Turned design concepts into polished, accessible, cross-device, responsive experiences.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
