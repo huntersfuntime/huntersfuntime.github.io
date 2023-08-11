@@ -112,6 +112,19 @@ const technologies = [
 
 const experiences = [
   {
+    title: "Adjunct Professor",
+    company_name: "Kaskaskia College",
+    icon: kaskaskia,
+    iconBg: "#E6DEDD",
+    date: "Feb 2021 - Current",
+    points: [
+      "Taught Programming 1 (CITP 155) at the college level, demonstrating the ability to break down complex coding concepts into manageable chunks for students.",
+      "Credit Hours 3.00.",
+      "Help students gain a strong foundation in programming through clear and concise explanations of key concepts and hands-on exercises",
+      "Curriculum included Object-Oriented Programming, Data Types, Variables, Control Structures, File Handling, Database Connectivity, and the Software Development Life Cycle."
+    ]
+  },
+  {
     title: "Software Engineer 2",
     company_name: "TaxBit",
     icon: taxbit,
@@ -135,19 +148,6 @@ const experiences = [
       "Turned design concepts into polished, accessible, cross-device, responsive experiences.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
       "Improved the performance of our Consumer product by 20-30% by  implementing lazy loading, switching CRA to Vite, and optimizing images, used Lighthouse to measure performance."
-    ]
-  },
-  {
-    title: "Adjunct Professor",
-    company_name: "Kaskaskia College",
-    icon: kaskaskia,
-    iconBg: "#E6DEDD",
-    date: "Feb 2021 - Jun 2021 (Contract)",
-    points: [
-      "Taught Programming 1 (CITP 155) at the college level, demonstrating the ability to break down complex coding concepts into manageable chunks for students.",
-      "Credit Hours 3.00.",
-      "Help students gain a strong foundation in programming through clear and concise explanations of key concepts and hands-on exercises",
-      "Curriculum included Object-Oriented Programming, Data Types, Variables, Control Structures, File Handling, Database Connectivity, and the Software Development Life Cycle."
     ]
   },
   {
