@@ -118,10 +118,9 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "Feb 2021 - Current",
     points: [
-      "Taught Programming 1 (CITP 155) at the college level, demonstrating the ability to break down complex coding concepts into manageable chunks for students.",
-      "Credit Hours 3.00.",
+      "Break down complex coding concepts into manageable chunks for students.",
       "Help students gain a strong foundation in programming through clear and concise explanations of key concepts and hands-on exercises",
-      "Curriculum included Object-Oriented Programming, Data Types, Variables, Control Structures, File Handling, Database Connectivity, and the Software Development Life Cycle."
+      "Curriculum includes Object-Oriented Programming, Data Types, Variables, Control Structures, File Handling, Database Connectivity, and the Software Development Life Cycle."
     ]
   },
   {
